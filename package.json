@@ -1,0 +1,23 @@
+{
+  "name": "family-birthday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fodilahy-mena/family-birthday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fodilahy-mena/family-birthday/issues"
+  },
+  "homepage": "https://github.com/Fodilahy-mena/family-birthday#readme",
+  "dependencies": {
+    "date-fns": "^2.16.1",
+    "waait": "^1.0.5"
+  }
+}
